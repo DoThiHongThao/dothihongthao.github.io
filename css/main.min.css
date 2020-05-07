@@ -287,7 +287,7 @@ nav#mainNav a.active:after{
     margin-bottom:10px
 }
 .det h3 span{
-    font-size:12px
+    font-size: 14px;
 }
 .det:before{
     border-bottom:15px solid #EFEFEF;
@@ -366,7 +366,8 @@ nav#mainNav a.active:after{
 }
 .pList li{
     margin-bottom:5px;
-    color:#343434
+    color:#343434;
+    font-size: 18px;
 }
 .pList li i{
     margin-right:5px;
